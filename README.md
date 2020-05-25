@@ -19,3 +19,6 @@ This will be test
 ## Copyright
 
 Added
+
+## How to contribute
+ Please send money

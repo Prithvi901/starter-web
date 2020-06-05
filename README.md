@@ -25,3 +25,6 @@ Added
  
  Adding for Rebase section
  Adding from myfeature
+ 
+ 
+ Stash practice

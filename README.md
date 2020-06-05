@@ -28,3 +28,5 @@ Added
  
  
  Stash practice
+ 
+ Stash changes untracked files
